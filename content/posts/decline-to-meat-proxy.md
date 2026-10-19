@@ -1,7 +1,7 @@
 ---
 title: "Avoiding the Decline to Meat Proxy"
 date: 2026-10-19
-draft: true
+draft: false
 ---
 
 Understatment of the decade: AI has had a massive impact on software development. I wanted to make a developer tool that encourages the benefits of productivity of its use without the degradation of skill from outsourcing the developer’s thinking.
