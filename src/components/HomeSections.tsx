@@ -17,27 +17,6 @@ export function Projects() {
   );
 }
 
-export function Profile() {
-  const { name, pronouns, photo, bio } = site.profile;
-  return (
-    <section className="home-section" id="about">
-      <div className="profile">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={photo} alt={name} className="profile-photo" width={160} height={160} />
-        <div>
-          <p className="profile-name">
-            {name}
-            {pronouns && <> · <strong>{pronouns}</strong></>}
-          </p>
-          {bio.map((line) => (
-            <p key={line}>{line}</p>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
 export function FindMe() {
   if (site.links.length === 0) return null;
   return (

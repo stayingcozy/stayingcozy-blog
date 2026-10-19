@@ -4,7 +4,7 @@ date: 2026-10-19
 draft: true
 ---
 
-AI has had a massive impact on software development. I wanted to make a developer tool that encourages the benefits of productivity of its use without the degradation of skill from outsourcing the developer’s thinking.
+Understatment of the decade: AI has had a massive impact on software development. I wanted to make a developer tool that encourages the benefits of productivity of its use without the degradation of skill from outsourcing the developer’s thinking.
 
 The goal with this developer tool is to find the right balance with AI. Not using AI as one coworker said is “leaving productivity on the table”. I agree however I think too much use will cause many critical thinking skills to atrophy and create a reliance on the tool you use.
 
@@ -12,9 +12,9 @@ The goal with this developer tool is to find the right balance with AI. Not usin
 
 To best draw this line at a high level, is to keep the AI at read only permission. This allows the AI agent to get full context of your building directory without making changes itself. To properly know what you are asking, gather information related to your inquiry, and recommend a solution given the knowledge pushed and trained. By having to run or write yourself you still drive the vehicle and keep the relationship to you the driver and AI the assistant.
 
-This said driving by entering in commands and writing can be tedious. So what is the case for doing the repetitive and tedious? You actual learn. We are not simply told once and then subsequently lock that information in. We need repetition to strengthen the importance for our neural paths to lock in that lesson.
+Driving by entering in commands and writing can be tedious. So what is the case for doing the repetitive and tedious? You actual learn. We are not simply told once and then subsequently lock that information in. We need repetition to strengthen the importance for our neural paths to lock in that lesson.
 
-If you aren’t a software developer but of another domain and just want to get things to work end to end then vibecoding with documentation, unit tests, and clear criteria works fine. Especially if you have the token budget i.e. a provided enterprise plan. Then go crazy with pipelines and mult-agent work. Sometimes you just need something to work to provide the idea is applicable. This tool isn’t for that purpose.
+If you aren’t a software developer but of another domain and just want to get things to work end to end then vibecoding with documentation, unit tests, and clear criteria works fine. Especially if you have the token budget i.e. a provided enterprise plan. Then go crazy with pipelines and mult-agent work. Sometimes you just need something to work to provide the idea is applicable. This tool isn’t for that purpose. This tool is for maintance and learning. 
 
 This read only method is already done in Ask mode in most AI agent products, so why build my own?
 It is easy to degenerate with a simple push from the user to switch to agent mode. To checkout from work because you are tired or don’t feel like it on a Friday. With laziness this is all too easy.
@@ -66,6 +66,11 @@ I have strong hope that with focusing on the human person growth rather than tok
 In true MVP fashion I built it to work but not much beyond that. To hit the 2 week deadline and to continue moving forward many features were cleaved and this is still very much a work in progress. Also old habits die hard as I really spent more than a month on this, all the more reason to move on. However the baseline objective of keeping AI in a VM with readonly access and masking has been achieved. More work to strengthen the security and user feedback are needed. I’ll be using this tool for future projects to verify its utility and my hypothesis.
 
 So the next step from telling people about what I built so I don’t build in a cave is to move onto the next rotation. This build was designed to be a single loop but to be used for the next rounds to be actively developed and verify it’s utility alongside the products I will be building. Looking forward to the next round as I attempt to start the journey of fixing my terrible posture while coding. Another developer tool of sorts but with more hardware.
+
+The projects mentioned here are on GitHub:
+
+- [readonly](https://github.com/stayingcozy/readonly): VM that ensures AI agent CLIs get readonly access and masks `.env`
+- [meta-readonly](https://github.com/stayingcozy/meta-readonly): Yocto build for the readonly VM image
 
 [^1]: OpenAI, [“Hugging Face incident and the road ahead”](https://openai.com/index/hugging-face-incident-and-the-road-ahead/).
 [^2]: *Magnifica Humanitas*.

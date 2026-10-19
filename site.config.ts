@@ -32,14 +32,12 @@ export const site: SiteConfig = {
   /** Title bar links (right side). */
   nav: [
     { label: "articles", href: "/articles/" },
-    { label: "about", href: "/#about" },
   ],
 
   /** "what I'm working on" — small cards with a bold name and a short label. */
   projects: [
-    { name: "project one", label: "short description", href: "https://github.com/you/project-one" },
-    { name: "project two", label: "what it does", href: "https://github.com/you/project-two" },
-    { name: "project three", label: "one-liner", href: "https://example.com" },
+    { name: "readonly", label: "VM ensure AI Agent CLI readonly access & mask .env", href: "https://github.com/stayingcozy/readonly" },
+    { name: "meta-readonly", label: "yocto build for readonly vm image", href: "https://github.com/stayingcozy/meta-readonly" },
   ],
 
   /** Profile section (bottom of the homepage). */

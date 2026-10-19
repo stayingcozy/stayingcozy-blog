@@ -2,7 +2,7 @@ import Link from "next/link";
 import { site } from "@site";
 import { getAllPosts } from "@/lib/posts";
 import PostList from "@/components/PostList";
-import { Projects, Profile, FindMe } from "@/components/HomeSections";
+import { Projects, FindMe } from "@/components/HomeSections";
 
 export default function Home() {
   const posts = getAllPosts();
@@ -22,7 +22,6 @@ export default function Home() {
         )}
       </section>
 
-      <Profile />
       <FindMe />
     </div>
   );
