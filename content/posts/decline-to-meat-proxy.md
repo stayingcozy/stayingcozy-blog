@@ -31,7 +31,7 @@ The resistance to the not think workflow could be chalked up to resistance to ne
 
 Now the language medium you use for thinking and expressing ideas is done via a machine. The past tools were an extension of the hands where now the tool is an extension of the tongue. There is no way that more use of AI will not end up in atrophy in skills needed for a human being to function properly.
 
-You see coworkers now becoming meat proxies. Simple copying problems captured in text to solutions provided in texts from AI. PR’s filled with comments of Claude agents talking to themselves. We are more than just a way for AI to interact with the world in ways it is currently unable to. We would turn into tools for the tools we created.
+You see coworkers now becoming meat proxies[^3]. Simple copying problems captured in text to solutions provided in texts from AI. PR’s filled with comments of Claude agents talking to themselves. We are more than just a way for AI to interact with the world in ways it is currently unable to. We would turn into tools for the tools we created.
 
 This does not mean we don’t use it. We just need clear hard set boundaries to prevent degradation into domesticating ourselves via the tools we create.
 
@@ -41,9 +41,13 @@ This does not mean we don’t use it. We just need clear hard set boundaries to 
 
 So how do we use AI to enhance our long term productivity without reducing ourselves to copy paste zombies. You use the read only feature to force even if it is tedious write and execute processes to prevent lack of thinking. You also lock it up in a VM. Mirror the directory paths for AI to see a reflection of you work but not the original. Simultaneously leaving out files that should not be seen such as secret keys. There are still vulnerabilities with this as with any software. For those aware I’m sure you are thinking of the Hugging Face Incident.[^1]
 
-The Hugging Face incident is often referred to online as a “warning shot”.[^3] This handily plays into OpenAI marketing playbook of hyping their product while emphasizing their technological power and subsequent need for their customers to continue to use them to harness that power for their goals. At worst this is fear mongering, which you can see in full on YouTube thumbnails to drive clicks through fear. Fear of missing out and a grave external threat.
+The Hugging Face incident is often referred to online as a “warning shot”. This handily plays into OpenAI marketing playbook of hyping their product while emphasizing their technological power and subsequent need for their customers to continue to use them to harness that power for their goals. At worst this is fear mongering, which you can see in full on YouTube thumbnails to drive clicks through fear. Fear of missing out and a grave external threat.
 
-<!-- TODO: insert 2-3 photos of fear mongering thumbnails from Documents/HuggingFace_WarningShot_*.png -->
+![YouTube result: "AI Just Crossed the Terrifying Line - Now What?" by Kurzgesagt, thumbnail reads "WE LOST CONTROL"](/images/HuggingFace_WarningShot_1.png "Kurzgesagt – In a Nutshell: \"AI Just Crossed the Terrifying Line - Now What?\"")
+
+![YouTube result: "The OpenAI/Hugging Face attack, clearly explained" by Dwarkesh Patel](/images/HuggingFace_WarningShot_2.png "Dwarkesh Patel: \"The OpenAI/Hugging Face attack, clearly explained\"")
+
+![YouTube result: "Hugging Face: Why AI Might Kill Us" by Hoog](/images/HuggingFace_WarningShot_3.png "Hoog: \"Hugging Face: Why AI Might Kill Us\"")
 
 This is no way to completely solve this security problem but that does not mean we shouldn't work hard to mitigate it.
 
