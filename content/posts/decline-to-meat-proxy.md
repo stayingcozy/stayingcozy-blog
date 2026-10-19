@@ -4,13 +4,13 @@ date: 2026-10-19
 draft: false
 ---
 
-Understatment of the decade: AI has had a massive impact on software development. I wanted to make a developer tool that encourages the benefits of productivity of its use without the degradation of skill from outsourcing the developer’s thinking.
+Understatement of the decade: AI has had a massive impact on software development. I wanted to make a developer tool that encourages the benefits of productivity of its use without the degradation of skill from outsourcing the developer’s thinking.
 
-The goal with this developer tool is to find the right balance with AI. Not using AI as one coworker said is “leaving productivity on the table”. I agree however I think too much use will cause many critical thinking skills to atrophy and create a reliance on the tool you use.
+The goal with this developer tool is to find the right balance with AI. Not using AI as a fellow coworker said is “leaving productivity on the table”. I agree; however, I think too much use will cause many critical thinking skills to atrophy and create a reliance on the tool you use.
 
 > It frequently forces workers to adapt to the speed and demands of machines, rather than machines being designed to support those who work. As a result, contrary to the advertised benefits of AI, current approaches to technology can paradoxically de-skill workers, subject them to automated surveillance and relegate them to rigid repetitive tasks. The need to keep up with the pace of technology can erode workers’ sense of agency and stifle the innovative abilities they are expect to bring to their work.[^2]
 
-To best draw this line at a high level, is to keep the AI at read only permission. This allows the AI agent to get full context of your building directory without making changes itself. To properly know what you are asking, gather information related to your inquiry, and recommend a solution given the knowledge pushed and trained. By having to run or write yourself you still drive the vehicle and keep the relationship to you the driver and AI the assistant.
+To best draw this line at a high level, is to keep the AI at read only permission. This allows the AI agent to get full context of your building directory without making changes itself. To properly know what you are asking, gather information related to your inquiry, and recommend a solution given the knowledge pushed and trained. By having to run or write yourself you still drive the vehicle.
 
 Driving by entering in commands and writing can be tedious. So what is the case for doing the repetitive and tedious? You actual learn. We are not simply told once and then subsequently lock that information in. We need repetition to strengthen the importance for our neural paths to lock in that lesson.
 
