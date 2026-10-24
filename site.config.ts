@@ -46,8 +46,7 @@ export const site: SiteConfig = {
     pronouns: "", // set to "" to hide
     photo: "/avatar.svg", // drop your own image in /public and point here
     bio: [
-      "A sentence or two about who you are and what you write about.",
-      "Something you care about or are focused on this year.",
+      "Currently looping building something end to end and posting about it.",
     ],
   },
 
